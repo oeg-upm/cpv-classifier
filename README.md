@@ -1,6 +1,6 @@
 # CPV Classifier
 
-In this work we compare different approaches to CPV classification. The notebooks below contain the different approaches compared:
+In this work we compare different approaches to CPV classification, using data extracted from the [Spanish Treasury](https://www.hacienda.gob.es/es-ES/GobiernoAbierto/Datos%20Abiertos/Paginas/LicitacionesContratante.aspx). The notebooks below contain the different approaches compared:
 
 
 ## Notebooks
