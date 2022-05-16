@@ -1,4 +1,4 @@
-# CPVClassifier
+# CPV Classifier
 
 In this work we compare different approaches to CPV classification. The notebooks below contain the different approaches compared:
 
