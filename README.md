@@ -37,16 +37,18 @@ Full: https://www.kaggle.com/datasets/marianavasloro/dataset
 If you use these datasets or our notebooks, please cite this repository and our 2022 SEPLN paper (to appear):
 
 ```
-@software{maria_navas_loro_2022_6554604,
-  author       = {María Navas Loro and
-                  Daniel Garijo and
-                  Oscar Corcho},
-  title        = {Multi-label Text Classification for Public Procurement in Spanish},
-  month        = may,
-  year         = 2022,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.6554604},
-  url          = {https://doi.org/10.5281/zenodo.6554604}
+@article{PLN6429,
+	author = {Maria Navas-Loro y Daniel Garijo y Oscar Corcho},
+	title = {Multi-label Text Classification for Public Procurement in Spanish},
+	journal = {Procesamiento del Lenguaje Natural},
+	volume = {69},
+	number = {0},
+	year = {2022},
+	keywords = {},
+	abstract = {Public procurement accounts for a 14% of the annual budget of the different governments of the European Union. In Europe, contracting processes are classified using Common Procurement Vocabulary codes (CPVs), a taxonomy designed to facilitate statistical reporting, search and the creation of alerts that can be used by potential bidders. CPVs are commonly assigned manually by public employees in charge of contracting processes. However, CPV classification is not a trivial task, as there are more than 9,000 different CPV categories, which are often assigned following heterogeneous criteria. In this paper we have created a CPV classifier that uses as an input the textual description of the contracting process, and assigns CPVs from the 45 top-level CPV categories. We work only with texts in Spanish, although our approach may be easily extended to other languages. Our results improve the state of the art (10% F1-score improvement) and are available online.},
+	issn = {1989-7553},
+	url = {http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6429},
+	pages = {73--82}
 }
 ```
 
